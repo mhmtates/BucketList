@@ -1,3 +1,3 @@
 **ToDoList Application**
 ---
-Digiway Akademide javascript kullanarak yaptığım bir todolist uygulaması
+Digiway Akademi'de javascript kullanarak yaptığım bir todolist uygulaması
