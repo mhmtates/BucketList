@@ -1,3 +1,3 @@
-**ToDoList Application**
+**BucketList**
 ---
-Digiway Akademi'de javascript dom'u kullanarak yaptığım bir todolist uygulaması
+Javascript'in dom yapısını kullanarak yaptığım ölmeden önce yapılacaklar listesinin olduğu bir proje yaptım.
